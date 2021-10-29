@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ATT&CK Data Modeling "
+title:  "ATT&CK Data Modeling"
 date:   2020-04-13 00:00:00 -0400
 categories: 
 ---
